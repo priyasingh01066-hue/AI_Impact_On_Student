@@ -1,5 +1,10 @@
 # AI_Impact_On_Student
-AI Impact in Student Life Dashboard provides a comprehensive analysis of how students use Artificial Intelligence (AI) tools in their academic and personal lives. It highlights students' preferences for different AI platforms, the frequency of AI usage, and the impact of AI on learning, productivity, and academic performance. 
+This dashboard provides insights into how students use AI tools across different education levels, age groups, and cities. It analyzes AI usage for activities such as writing, research, coding, learning, and homework, along with internet usage by gender, student satisfaction levels, and the impact of AI on academic grades. Interactive filters enable users to explore trends by city and satisfaction level, helping identify AI adoption patterns and its influence on students' learning experiences.
+## Tools Used
+* Microsoft Excel – Data collection, cleaning, and preprocessing.
+* Power Query – Data transformation and shaping.
+* Pivot Tables & Pivot Charts – Data summarization and visualization.
+* Slicers – Interactive filtering of dashboard visuals.
 ## Key Insights
 ChatGPT, Gemini, and Copilot are the most frequently used AI tools among students.
 Most students use AI for assignments, research, and learning support.
