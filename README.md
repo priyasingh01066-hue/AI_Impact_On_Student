@@ -12,6 +12,7 @@ This dashboard provides insights into how students use AI tools across different
 4. AI adoption varies across different age groups and genders.
 ## Files Included
 <img width="701" height="425" alt="AI impact on Student" src="https://github.com/user-attachments/assets/41f8c436-2d74-49e7-a07e-c80504a24928" />
+
 ## Conclusion
 This dashboard helps educators, researchers, and institutions make data-driven decisions about AI adoption in education and understand how AI is shaping students' learning experiences.
 
